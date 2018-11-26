@@ -16,7 +16,7 @@ You can miss companions and certain actions entirly
 */
 
 void setup(){
- size(640,424);
+ size(640,480);
   
 }
 
